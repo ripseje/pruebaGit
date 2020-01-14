@@ -15,7 +15,9 @@ public class PruebaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Prueba GIT");
+        //https://github.com/ripseje/pruebaGit.git
+        //Camela el Camellia español
+        System.out.println("FULL DE GUCCI");
     }
     
 }
